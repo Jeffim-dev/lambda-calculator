@@ -20,3 +20,38 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+  .logo-container {
+    margin: 20px 0 0 20px;
+  } 
+
+  button {
+    background: #4F94CD;	
+    color: #fff;
+    margin: 5px;
+    padding: 15px;
+    font-size: 30px;
+    height: 95px;
+    width: 95px;
+    border: 1px solid #8f8182;
+    border-radius: 50%;
+  }
+  
+  button:hover {
+    background: #fff;
+    color: #282c34;
+  }
+  
+  .App{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+  }
+
+  .nuButton {
+    background: #12336d;
+  }
+
+  .spButton {
+    background: #1d56a7;
+  }
